@@ -74,7 +74,9 @@ const Contact = () => {
             textarea.value = ""
 
 
-            const responsedata = await fetch("http://localhost:4001/postdata", {
+            const responsedata = await fetch("https://react-portfolio-backend-0p21.onrender.com/postdata"
+
+, {
                 method: "post",
                 headers: {
                     "Content-Type": "application/json"
