@@ -31,8 +31,8 @@ useEffect(()=>{
   return (
     <>
     <Element name='/Home'>
-    <div className='forbackground-img '>
-
+    <div className='forbackground-img ' >
+   
         
       
         

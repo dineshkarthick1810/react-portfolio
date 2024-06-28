@@ -43,9 +43,7 @@
   font-size: 20px;
   width: 200px;
 }
-.offcanvas{
-  background-image: url("home.png");
-}
+
 @keyframes btn{
   to{
     background-color: rgba(79,72,72,0.79);
@@ -80,6 +78,9 @@
   .forbtn{
    height: 42px;
     
+  }
+  .offcanvas{
+    background-image: url("./home.png");
   }
   
 

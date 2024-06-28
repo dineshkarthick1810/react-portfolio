@@ -6,7 +6,7 @@
 .forbackground-img{
     
     width: 100%;
-    background-image: url("home.png");
+    background-image: url("./home.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
