@@ -120,6 +120,42 @@ const Skills = () => {
           </div>
           
         </div>
+<div>
+        <div className='ms-5' style={{display:"flex",flexDirection:"column",justifyContent:"center",alignItems:"center"}}>
+            <img src='meter2.svg' className='img-fluid' style={{width:"180px"
+            }}/>
+            <div className=''>
+            <p className='text-white mt-2 text-center '  >Node</p>
+            </div>
+            
+
+          </div>
+          
+        </div>
+       <div>
+        <div className='ms-5' style={{display:"flex",flexDirection:"column",justifyContent:"center",alignItems:"center"}}>
+            <img src='meter2.svg' className='img-fluid' style={{width:"180px"
+            }}/>
+            <div className=''>
+            <p className='text-white mt-2 text-center '  >Express</p>
+            </div>
+            
+
+          </div>
+          
+        </div>
+        <div>
+        <div className='ms-5' style={{display:"flex",flexDirection:"column",justifyContent:"center",alignItems:"center"}}>
+            <img src='meter2.svg' className='img-fluid' style={{width:"180px"
+            }}/>
+            <div className=''>
+            <p className='text-white mt-2 text-center '  >MONGODB</p>
+            </div>
+            
+
+          </div>
+          
+        </div>
         
       </Slider>
     </div>
