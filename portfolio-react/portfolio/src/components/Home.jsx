@@ -21,7 +21,7 @@ const Home = () => {
 
 useEffect(()=>{
   setTimeout(()=>{
-    setstate("Frontend Developer")
+    setstate("FULL STACK Developer")
       },10000)
 },[])
   

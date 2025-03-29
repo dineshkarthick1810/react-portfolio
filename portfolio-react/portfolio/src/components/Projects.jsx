@@ -153,6 +153,38 @@ const Projects = () => {
     </div>
 
   </div>
+
+
+  <div className='col-lg-4   forcenter'>
+
+<div className='card forcard  forsm-height' style={{backgroundColor:"#0c0b0c",border:"4px solid #b6186762"}}>
+<img src='taskmanager.png' alt="something eroor occred" className='card-img img-top '  style={{borderRadius:"36px",height:"100%"}}/>
+
+
+
+<div className=' foranimation  w-100 ' >
+
+
+<p className='text-white mt-2 ' style={{fontWeight:"bold"}}>Title :<span className='text-white ms-1'>Turf BOOKING</span></p>
+
+<p className='text-white text-center mt-2' style={{fontWeight:"bold"}}>Description : <span className='text-white'>It is an Turf Booking app.its very useful to book our Turf slots in particular ground and its easy to use the app for great user experience.To more View Description section. </span></p>
+
+<a href='https://dineshkarthick1810.github.io/Task-manager/' target="_blank" className='btn text-white mt-2' style={{backgroundColor:"#da0a72ea "}}>View <span><VisibilityIcon/></span></a>
+
+
+
+<div className='forlotie-animation' >
+<Lottie options={defaultOptions}  
+          />
+          </div>
+
+
+</div>
+  
+</div>
+
+</div>
+
   
   
 
@@ -228,6 +260,28 @@ const Projects = () => {
     <li className='text-white'><p className='text-white' style={{fontWeight:"bold"}}>Increase Efficiency. Productivity improvement will also lead to increased efficiency.</p></li>
 
     <li className='text-white'><p className='text-white' style={{fontWeight:"bold"}}>Task Management. Task management and scheduling allow you to set deadlines ahead of time.</p></li>
+
+
+  </ul>
+
+    
+</div>
+</div>
+
+
+<div className='col-lg-6  forcenter'>
+
+<div className='card forcard forsm-margin ' style={{border:"4px solid #b6186762",backgroundColor:"#0c0b0c",display:"flex",flexDirection:"column",alignItems:"center"}}>
+
+  <ul >
+    <li className='text-white'><p className='text-white' style={{fontWeight:"bold"}}>Turf Booking</p></li>
+    <li className='text-white'><p className='text-white' style={{fontWeight:"bold"}}>Providing high-quality turf facilities for sports and recreational activities.</p></li>
+    <li className='text-white'><p className='text-white' style={{fontWeight:"bold"}}> Well-maintained artificial grass, proper lighting, and spacious fields.</p></li>
+
+    <li className='text-white'><p className='text-white' style={{fontWeight:"bold"}}>Hourly, daily, and event-based bookings available.</p></li>
+    <li className='text-white'><p className='text-white' style={{fontWeight:"bold"}}>Successfully hosted local tournaments, corporate events, and training sessions.Easily accessible venue with parking facilities.
+
+</p></li>
 
 
   </ul>
