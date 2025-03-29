@@ -158,7 +158,7 @@ const Projects = () => {
   <div className='col-lg-4   forcenter'>
 
 <div className='card forcard  forsm-height' style={{backgroundColor:"#0c0b0c",border:"4px solid #b6186762"}}>
-<img src='taskmanager.png' alt="something eroor occred" className='card-img img-top '  style={{borderRadius:"36px",height:"100%"}}/>
+<img src='https://turftown.in/_next/image?url=https%3A%2F%2Fturftown.s3.ap-south-1.amazonaws.com%2Fsuper_admin%2Ftt-1724315703275.webp&w=3840&q=75' alt="something eroor occred" className='card-img img-top '  style={{borderRadius:"36px",height:"100%"}}/>
 
 
 
@@ -169,7 +169,8 @@ const Projects = () => {
 
 <p className='text-white text-center mt-2' style={{fontWeight:"bold"}}>Description : <span className='text-white'>It is an Turf Booking app.its very useful to book our Turf slots in particular ground and its easy to use the app for great user experience.To more View Description section. </span></p>
 
-<a href='https://dineshkarthick1810.github.io/Task-manager/' target="_blank" className='btn text-white mt-2' style={{backgroundColor:"#da0a72ea "}}>View <span><VisibilityIcon/></span></a>
+<a href='https://turf-project-gold.vercel.app/
+' target="_blank" className='btn text-white mt-2' style={{backgroundColor:"#da0a72ea "}}>View <span><VisibilityIcon/></span></a>
 
 
 
